@@ -15,5 +15,5 @@ for (int i = 0; i <= length / 2; i++)
 }
 if (isPal == true)
 {
-    Console.WriteLine($"{Pal} is a palondrome");
+    Console.WriteLine($"{Pal} is a palindrome");
 }
